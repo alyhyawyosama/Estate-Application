@@ -1,0 +1,52 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"mfBolUIIPb\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Estate App</span>\",\"col\":12}},{\"id\":\"qfH1gQ8h3K\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"jzClZJurwv\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shortcuts</b></span>\",\"col\":12}},{\"id\":\"JQYGIq46YH\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Property\",\"col\":4}},{\"id\":\"gi8MTTrCuE\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"9GMDE16tGU\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Number Of Properties\",\"col\":4}}]",
+ "creation": "2023-11-24 21:00:43.507451",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "number-card",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Estate App",
+ "links": [],
+ "modified": "2023-11-24 21:38:09.092372",
+ "modified_by": "Administrator",
+ "module": "Estate App",
+ "name": "Estate App",
+ "number_cards": [
+  {
+   "label": "Number Of Properties",
+   "number_card_name": "Property Card number"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 7.0,
+ "shortcuts": [
+  {
+   "doc_view": "List",
+   "label": "Property",
+   "link_to": "Property",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Property Type",
+   "link_to": "Property Type",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "List",
+   "label": "Property Amenity Item",
+   "link_to": "Property amenity item",
+   "type": "DocType"
+  }
+ ],
+ "title": "Estate App"
+}
